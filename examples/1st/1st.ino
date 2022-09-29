@@ -1,5 +1,4 @@
-#include "easyLiDAR.hpp"
-#include "FastLed.h"
+#include <easyLiDAR.hpp>
 
 static easyLiDAR lidar;
 
